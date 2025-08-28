@@ -3,7 +3,8 @@
   justify-content: center;
   align-items: center;
   grid-template-columns: repeat(1, 200px);
-  gap: 46px 48px;
+  row-gap: 46px;
+  column-gap: 48px;
   padding: 50px 40px;
 
   @media (min-width: 488px) {
